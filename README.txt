@@ -1,2 +1,2 @@
 Branch Data
-Conflict in master
+Something that will conflict with branch.
