@@ -1,2 +1,2 @@
 Branch Data
-Something that will conflict with branch.
+This is a resolution
